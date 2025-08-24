@@ -47,7 +47,7 @@ sudo ./WifiReaper.sh wlan0 --scan
 # Single attack run
 sudo ./WifiReaper.sh wlan0
 ```
-##### Defaults to running a 60-second discovery scan, 10-second deauthentication attack per network, and 3 retry attempts on deauthentication attacks.
+##### Defaults to running a 60-second discovery scan, and three 10-second deauthentication attacks per network.
 
 ### Advanced Options
 ```bash
