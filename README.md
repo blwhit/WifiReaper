@@ -25,7 +25,7 @@ Automatically discover and attack WiFi networks at scale. Mass deauthentication 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/WifiReaper.git
+git clone https://github.com/blwhit/WifiReaper.git
 cd WifiReaper
 ```
 
