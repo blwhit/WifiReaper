@@ -75,7 +75,7 @@ sudo ./WifiReaper.sh wlan0 -ST 45 -DT 8 -DA 1
 ## Output Files
 
 - **Captures**: Stored in `Data/WifiReaper_YYYY-MM-DD_HH-MM-SS/`
-- **Converted Hashes**: Stored in `Reaped/` (`.hc22000` format)
+- **Converted Hashes**: Stored in `/Reaped` (`.hc22000` format)
 - **Database**: `Data/wifireaper_cracked.db` (tracks successful captures)
 
 ## Notice
