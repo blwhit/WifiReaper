@@ -1,6 +1,4 @@
 # WifiReaper
-<img width="341" height="345" alt="image" src="https://github.com/user-attachments/assets/adaed175-c586-48b7-b641-73d57bb622d9" />
-
 ## Overview
 Automatically discover and attack WiFi networks at scale. Mass deauthentication attacks to target WPA/WPA2 networks, and capture victim WiFi handshakes to be cracked for the cleartext password to the network.
 
