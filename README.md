@@ -12,6 +12,9 @@ Automatically discover and attack WiFi networks at scale. Mass deauthentication 
 - **Ready to Crack**: Uses hcxpcapngtool to validate captured handshakes and convert them to ready-to-crack Hashcat formats
 - **Database**: Maintains local database of known cracked networks
 
+## Example
+<img width="456" height="775" alt="image" src="https://github.com/user-attachments/assets/b4ffa351-c40f-44ea-8aca-caf5c427030f" />
+
 ## Requirements
 
 - Kali Linux or compatible distribution
